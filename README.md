@@ -134,3 +134,11 @@ int main() {
 
     return 0;
 }
+## Kaynaklar
+CLRS - Introduction to Algorithms (Cormen, Leiserson, Rivest, Stein)
+
+Wikipedia - Union-Find
+
+GeeksforGeeks - Union-Find Algorithm
+
+Competitive Programming Books (For example, Steven Halim's "Competitive Programming 3")
